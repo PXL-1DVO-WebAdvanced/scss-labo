@@ -78,3 +78,6 @@ Gebruik nesting om het element met klasse ‘footer-copyright-paragraph’ te se
 Wanneer je 100% tevreden bent over het resultaat doe je een commit en push van je branch *memyselfandi/new/deel4*. Gebruik als commit-message: *deel4 - footer*
 
 Ga vervolgens naar je repository op github.com om een merge te doen van deze branch met je main-/master-branch.
+
+## Next!
+[Ga naar deel 5](DEEL5.md)

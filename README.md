@@ -39,15 +39,17 @@ Het doel van deze labo's is dat je stapsgewijs tot een resultaat komt, probeer d
 
 ## Opgave
 Om de opgave zo overzichtelijk mogelijk te houden werd deze opgesplitst in 5 delen.
-- DEEL1.md
-- DEEL2.md
-- DEEL3.md
-- DEEL4.md
-- DEEL5.md
+- DEEL1 - Header
+- DEEL2 - About
+- DEEL3 - Producten
+- DEEL4 - Footer
+- DEEL5 - Navigatie
  
 Werk deze opgave verder af door alle stappen in de verschillende onderdelen te doorlopen!
 
 Het uiteindelijke resultaat kan er dan bijvoorbeeld zo uit zien:
 
 <a href="https://www.youtube.com/watch?v=o2IgDqGzvnM" target="_blank"><img alt="sneakers" src="https://img.youtube.com/vi/o2IgDqGzvnM/0.jpg"></a>
+
+Ready? [Ga naar deel1!](DEEL1.md)
 

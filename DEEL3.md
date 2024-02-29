@@ -127,3 +127,6 @@ We gebruiken nu in de afbeelding en de overlay telkens een breedte en hoogte van
 Wanneer je 100% tevreden bent over het resultaat doe je een commit en push van je branch *memyselfandi/new/deel3*. Gebruik als commit-message: *deel3 - producten*
 
 Ga vervolgens naar je repository op github.com om een merge te doen van deze branch met je main-/master-branch.
+
+## Next!
+[Ga naar deel 4](DEEL4.md)

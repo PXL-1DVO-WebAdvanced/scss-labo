@@ -81,3 +81,6 @@ Spreek ook het html element aan en zet de eigenschap scrollbar-width op none
 Wanneer je 100% tevreden bent over het resultaat doe je een commit en push van je branch *memyselfandi/new/deel2*. Gebruik als commit-message: *deel2 - about*
 
 Ga vervolgens naar je repository op github.com om een merge te doen van deze branch met je main-/master-branch.
+
+## Next!
+[Ga naar deel 3](DEEL3.md)

@@ -182,3 +182,4 @@ Verberg uiteindelijk nog de checkbox. Dit kan je doen door met een CSS eigenscha
 Wanneer je 100% tevreden bent over het resultaat doe je een commit en push van je branch *memyselfandi/new/deel4*. Gebruik als commit-message: *deel4 - footer*
 
 Ga vervolgens naar je repository op github.com om een merge te doen van deze branch met je main-/master-branch.
+

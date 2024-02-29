@@ -169,3 +169,5 @@ Wanneer je 100% tevreden bent over het resultaat doe je een commit en push van j
 
 Ga vervolgens naar je repository op github.com om een merge te doen van deze branch met je main-/master-branch.
 
+## Next!
+[Ga naar deel 2](DEEL2.md)
