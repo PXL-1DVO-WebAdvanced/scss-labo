@@ -160,6 +160,7 @@ Creëer een hover effect voor dit element. Bij een hover:
 
 Zorg tenslotte voor een transition eigenschap met de waardes ‘all .4s’
 
+## Resultaat
 **Bekijk het resultaat in de browser!**
 
 ## Git branch
