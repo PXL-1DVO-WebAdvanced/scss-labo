@@ -48,6 +48,6 @@ Om de opgave zo overzichtelijk mogelijk te houden werd deze opgesplitst in 5 del
 Werk deze opgave verder af door alle stappen in de verschillende onderdelen te doorlopen!
 
 Het uiteindelijke resultaat kan er dan bijvoorbeeld zo uit zien:
-<video src="assets/video/sneakers.mp4" width="50%" controls></video>
 
+[![sneakers](https://img.youtube.com/vi/o2IgDqGzvnM/0.jpg)](https://www.youtube.com/watch?v=o2IgDqGzvnM)
 
