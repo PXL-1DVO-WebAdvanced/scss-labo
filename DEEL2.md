@@ -10,6 +10,7 @@ Onder de header die je in het vorige labo hebt gemaakt, voorzie je een about sec
 - Synchroniseer je lokale repository met het *git pull* commando
 - Controleer of de wijzigingen van deel1 zichtbaar zijn in de main-branch
 - Maak een nieuwe branch aan in je repository: *memyselfandi/new/deel2*
+- Doe een checkout van deze nieuwe branch
 
 ## Inhoud (html)
 Voorzie onder het header-element in het index.html bestand de volgende structuur:

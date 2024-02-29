@@ -6,6 +6,7 @@ In dit eerste deel bouw je de header van de webpagina op.
 
 ## Git branch
 - Maak een nieuwe branch aan in je repository: *memyselfandi/new/deel1*
+- Doe een checkout van deze nieuwe branch
 
 ## Structuur scss-bestanden
 Tijdens de opbouw van de cursus hebben we hoofdzakelijk gewerkt met een main.scss bestand.

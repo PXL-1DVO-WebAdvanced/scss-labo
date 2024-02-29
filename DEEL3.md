@@ -3,13 +3,14 @@ In het derde deel van het labo kan je verder bouwen op de code van deel 2.
 
 Onder de about sectie die je in het vorige labo hebt gemaakt, voorzie je een sectie waar producten in de kijker kunnen getoond worden. Deze sectie ziet er als volgt uitziet (het eerste product wordt in de hover state getoond):
 
-![about](/assets/opgave/producten.png)
+![producten](/assets/opgave/producten.png)
 
 ## Git branch
 - Doe een checkout van de main-/master-branch
 - Synchroniseer je lokale repository met het *git pull* commando
 - Controleer of de wijzigingen van deel2 zichtbaar zijn in de main-branch
 - Maak een nieuwe branch aan in je repository: *memyselfandi/new/deel3*
+- Doe een checkout van deze nieuwe branch
 
 ## Inhoud (html)
 Voorzie onder de ‘about’ sectie in het index.html bestand de volgende structuur:
