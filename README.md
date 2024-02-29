@@ -49,5 +49,5 @@ Werk deze opgave verder af door alle stappen in de verschillende onderdelen te d
 
 Het uiteindelijke resultaat kan er dan bijvoorbeeld zo uit zien:
 
-[![sneakers](https://img.youtube.com/vi/o2IgDqGzvnM/0.jpg)](https://www.youtube.com/watch?v=o2IgDqGzvnM)
+<a href="https://www.youtube.com/watch?v=o2IgDqGzvnM" target="_blank"><img alt="sneakers" src="https://img.youtube.com/vi/o2IgDqGzvnM/0.jpg"></a>
 
