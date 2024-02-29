@@ -2,6 +2,8 @@
 In dit eerste deel bouw je de header van de webpagina op.
 
 ![header](/assets/opgave/header.png)
+
+Met hover effect: 
 ![header-hover](/assets/opgave/header-hover.png)
 
 ## Git branch

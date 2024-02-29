@@ -3,6 +3,8 @@ In het tweede deel van het labo kan je verder bouwen op de code van het vorige l
 Onder de header die je in het vorige labo hebt gemaakt, voorzie je een about sectie die er als volgt uit ziet:
 
 ![about](/assets/opgave/about.png)
+
+Met hover effect:
 ![about-hover](/assets/opgave/about-hover.png)
 
 ## Git branch
