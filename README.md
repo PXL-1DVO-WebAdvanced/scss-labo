@@ -33,9 +33,7 @@ Het doel van deze labo's is dat je stapsgewijs tot een resultaat komt, probeer d
 
       npm run dev
 
-### Commit
+### Commit & Push
 - Gebruik het commando *git commit* of je code-editor om een eerste commit te maken met als *message*: "init setup"
 - Voer het *push*-commando uit om je commit ook te synchroniseren met je remote repository! Controleer dit in github.com.
 
-## Deel 1
-In dit eerste deel bouw je de header van de webpagina op.
