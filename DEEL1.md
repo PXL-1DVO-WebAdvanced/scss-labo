@@ -161,3 +161,9 @@ Creëer een hover effect voor dit element. Bij een hover:
 Zorg tenslotte voor een transition eigenschap met de waardes ‘all .4s’
 
 **Bekijk het resultaat in de browser!**
+
+## Git branch
+Wanneer je 100% tevreden bent over het resultaat doe je een commit en push van je branch *memyselfandi/new/deel1*. Gebruik als commit-message: *deel1 - header*
+
+Ga vervolgens naar je repository op github.com om een merge te doen van deze branch met je main-/master-branch.
+

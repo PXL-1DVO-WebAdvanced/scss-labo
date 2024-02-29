@@ -37,3 +37,12 @@ Het doel van deze labo's is dat je stapsgewijs tot een resultaat komt, probeer d
 - Gebruik het commando *git commit* of je code-editor om een eerste commit te maken met als *message*: "init setup"
 - Voer het *push*-commando uit om je commit ook te synchroniseren met je remote repository! Controleer dit in github.com.
 
+## Opgave
+Om de opgave zo overzichtelijk mogelijk te houden werd deze opgesplitst in 5 delen.
+- DEEL1.md
+- DEEL2.md
+- DEEL3.md
+- DEEL4.md
+- DEEL5.md
+ 
+Werk deze opgave verder af door alle stappen in de verschillende onderdelen te doorlopen!
