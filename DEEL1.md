@@ -85,7 +85,7 @@ Een anchor element is een inline element waardoor we het standaard geen breedte 
 
 ### teksten logo
 Binnen het element met klasse ‘brand’ gaan we de teksten en het logo langs elkaar plaatsen. Geef het element daarom weer als ‘flex’ en centreer de items verticaal en horizontaal.
-Deze flexbox eigenschappen gaan we nog meermaals nodig hebben. Maak daarom een mixin ‘flexLayout’ aan in _base.scss, zet de eigenschappen hierin en vervang deze eigenschappen in de klasse ‘brand’ met de mixin. Laad de mixin ook in de klasse logo in.
+Deze flexbox eigenschappen gaan we nog meermaals nodig hebben. Maak daarom een mixin ‘flexLayout’ aan in _base.scss, zet de eigenschappen hierin en vervang deze eigenschappen in de klasse ‘brand’ met de mixin. Vervang de *display: block* eignenschap van de klasse logo nu ook door ook daar de mixin in te laden. 
 
 Aangezien we meerdere lettertypes gaan gebruiken, definiëren we eerst drie nieuwe variabelen in _base.scss:
 -	font-dancingScript: ‘Dancing Script’, cursive
